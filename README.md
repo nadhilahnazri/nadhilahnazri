@@ -1,4 +1,7 @@
 ## Hi there 👋
+I am one of those people who want to do everything and master every skill, currently my best abilities are
+- 🐍 python
+- 🕹️ tetris
 
 <!--
 **nadhilahnazri/nadhilahnazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
