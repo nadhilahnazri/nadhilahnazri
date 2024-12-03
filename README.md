@@ -3,6 +3,8 @@ I am one of those people who want to do everything and master every skill, curre
 - 🐍 python
 - 🕹️ tetris
 
+Going through the [GitHub Skills page](http://skills.github.com) purely for the sake of having fun. Please assume I am an expert despite doing beginner courses, it's definitely not because I still struggle with git \*cough\*
+
 <!--
 **nadhilahnazri/nadhilahnazri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
